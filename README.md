@@ -8,6 +8,6 @@ The selected dataset focuses on Delhi's air quality, particularly the particulat
 The analysis aims to employ linear regression to establish relationships between PM2.5 concentration and independent variables, identifying significant contributors to PM2.5 levels. By fitting a linear model, coefficients of independent variables will be estimated, indicating the strength and direction of relationships. The ultimate goal is to predict PM2.5 concentration based on independent variable values. The analysis seeks to answer the question: Can we predict Delhi's PM2.5 concentration based on other air quality features?
 
 ## Reference to data set source:
-Sirohiwal, D., 2023. Air quality data of Delhi, India. [Online] 
+Sirohiwal, D., 2023. Air quality data of Delhi, India. [Online]
 Available at: https://www.kaggle.com/datasets/deepaksirohiwal/delhi-air-quality
 [Accessed 3 May 2023].
